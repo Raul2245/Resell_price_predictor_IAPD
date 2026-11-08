@@ -1,0 +1,63 @@
+Model	Numar
+Jordan 1	291
+Jordan 2	122
+Jordan 3	224
+Jordan 4	341
+Jordan 5	299
+Jordan 6	43
+Jordan 7	4
+Jordan 8	11
+Jordan 9	17
+Jordan 10	4
+Jordan 11	48
+Jordan 12	28
+Jordan 13	18
+Jordan 14	13
+Jordan 15	4
+Jordan 16	1
+Jordan 17	3
+Jordan 18	3
+Jordan 23	4
+Jordan 32	1
+Jordan 34	1
+Jordan 35	28
+Jordan 36	2
+Jordan 38	2
+Jordan 40	4
+
+
+Model	Numar
+Jordan Zion	38
+Jordan Max Aura	27
+Jordan Luka 2	22
+Jordan Tatum 3	22
+Jordan Why Not	17
+Jordan ADG	16
+Jordan Tatum 4	16
+Jordan Luka 4	15
+Jordan One	13
+Jordan Luka 3	13
+Jordan Luka 5	12
+Jordan Tatum 2	11
+Jordan Delta 2	10
+Jordan Stay	10
+Jordan Hydro 5	6
+Jordan Spizike	6
+Jordan Flight Origin	5
+Jordan Jumpman Team	5
+Jordan Westbrook	5
+Jordan Melo	4
+Jordan MVP	3
+Jordan Countdown Pack	3
+Jordan Jumpman Jack	3
+Jordan Legacy	3
+Jordan CMFT Era	2
+Jordan Courtside	2
+Jordan Flight Court	2
+Jordan Heir	2
+Jordan Hydro 4	2
+Jordan Hydro III	2
+Jordan Hydro XI	2
+Jordan Tatum 5	2
+Jordan Team	2
+Alte modele Jordan	16
